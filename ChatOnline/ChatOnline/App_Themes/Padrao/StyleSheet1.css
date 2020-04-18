@@ -1,0 +1,55 @@
+﻿body {
+    margin: 0px;
+    font-family: 'Century Gothic'
+}
+
+h1 {
+    margin: 0px;
+    background-color: #ff6a00;
+    color: #ffffff;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+
+section {
+    padding: 20px;
+}
+
+.legenda {
+    display: block;
+}
+
+.campo {
+    display: block;
+}
+
+.botao {
+    margin-top: 15px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 4px;
+    border: 1px solid #808080;
+    background-color: #ccc;
+}
+
+.chat-mensagem-box {
+    border-top: 1px solid #ccc;
+    clear: both;
+    font-size: 80%;
+}
+
+.chat-mensagem-participante {
+    font-weight: bold;
+    float: left;
+    width: 120px;
+    padding: 5px
+}
+
+.chat-mensagem-texto {
+    float: left;
+    padding: 5px
+}
+
+.chat-box {
+    margin-top: 20px;
+}
+
